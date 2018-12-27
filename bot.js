@@ -1148,7 +1148,7 @@ client.on('ready',  () => {
 client.on('ready', function(){
     client.user.setStatus("dnd");
     var ms = 100000 ;
-    var setGame = [`By LEGEND`];
+    var setGame = [`LORD SESTYM`];
     var i = -1;
     var j = 0;
     setInterval(function (){
